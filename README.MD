@@ -12,7 +12,7 @@
 
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Capa.png"
     width="400"  
 />
 </p>
@@ -20,18 +20,17 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual aluno na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui aluno na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/Ebook-Backend.pptx.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
-- [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
+- [GoogleSlide](https://docs.google.com/presentation)
 
 ## 🧠 Prompts
 
@@ -40,20 +39,20 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie titulos para um ebook sobre o nicho de backend mas o ebook vai ser sobre uma ferramenta muito utilizada no desenvolvimento backend que e o postman utilize referencias a jogos e a o mundo nerd, os titulos tem que curtos e cativantes para chamar atenção, cria 5 titulos diferentes.                                                        |
+| conteúdo | Escolhi o titulo ("Nome do Titulo Escolhido") crie uma capa baseada nesse titulo para o meu ebook, utilizando nao so o titulo como referencia mas tambem um pergaminho de jogos de rpg aberto em pizel art, pode ter escrito no pergaminho os verbos de Http para apis fazendo referencia ao postman e backend. |
 
 
-Midjourney：
+ChatGpt4(Imagem)：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Escolhi o titulo ("Nome do Titulo Escolhido") crie uma capa baseada nesse titulo para o meu ebook, utilizando nao so o titulo como referencia mas tambem um pergaminho de jogos de rpg aberto em pixel art, pode ter escrito no pergaminho os verbos de Http para apis fazendo referencia ao postman e backend.|
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via ChatGPT
 
 ## 📚 Materiais
 
