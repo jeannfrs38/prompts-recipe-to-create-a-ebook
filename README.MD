@@ -38,8 +38,8 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie titulos para um ebook sobre o nicho de backend mas o ebook vai ser sobre uma ferramenta muito utilizada no desenvolvimento backend que e o postman utilize referencias a jogos e a o mundo nerd, os titulos tem que curtos e cativantes para chamar atenção, cria 5 titulos diferentes.                                                        |
-| conteúdo | Escolhi o titulo ("Nome do Titulo Escolhido") crie uma capa baseada nesse titulo para o meu ebook, utilizando nao so o titulo como referencia mas tambem um pergaminho de jogos de rpg aberto em pizel art, pode ter escrito no pergaminho os verbos de Http para apis fazendo referencia ao postman e backend. |
+|  título  | Crie titulos para um ebook com o tema backend sobre uma ferramenta muito utilizada, que e o postman, utilize referencias a jogos e ao mundo nerd, os titulos tem que ser curtos e cativantes para chamar atenção, crie 5 titulos diferentes.                                                        |
+| conteúdo | Escolhi o titulo ("Nome do Titulo Escolhido") crie uma capa baseada nesse titulo para o meu ebook, utilizando nao so o titulo como referencia mas tambem um pergaminho de jogos de rpg aberto em pixel art, pode ter escrito no pergaminho os verbos de Http para apis fazendo referencia ao postman e backend. |
 
 
 ChatGpt4(Imagem)：
